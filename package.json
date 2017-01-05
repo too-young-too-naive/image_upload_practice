@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jinliang",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "description": "A little practice",
+  "repository": {
+    "type": "git",
+    "url": "too-young-too-simple"
+  },
+  "keywords": [
+    "server"
+  ]
+}
